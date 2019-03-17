@@ -1,0 +1,535 @@
+{
+    "14-3-5F3E6": [],
+    "14-3-5F3D7": [
+        {
+            "Arduino_HC-05": {
+                "name": "Module H-C-2010-06-01",
+                "description": "Simple Module of Sensors",
+                "port": "COM6",
+                "baudrate": 9600,
+                "timestamp": "2019-03-11T18:04:15.556",
+                "location": "Hall BAT-02-001",
+                "sensors_type": {
+                    "type_name": "temperature",
+                    "commercial_name": "Temperature sensor - TMP36",
+                    "description": "Simple temperature sensor",
+                    "unit": "celsius",
+                    "value": 21.78
+                }
+            }
+        },
+        {
+            "Arduino_HC-05": {
+                "name": "Module H-C-2010-06-01",
+                "description": "Simple Module of Sensors",
+                "port": "COM6",
+                "baudrate": 9600,
+                "timestamp": "2019-03-11T18:04:15.556",
+                "location": "Hall BAT-02-001",
+                "sensors_type": {
+                    "type_name": "luminosity",
+                    "commercial_name": "Photosensor",
+                    "description": "Simple luminosity sensor",
+                    "unit": "lux (lumen)",
+                    "addr": "left",
+                    "value": 564
+                }
+            }
+        },
+        {
+            "Arduino_HC-05": {
+                "name": "Module H-C-2010-06-01",
+                "description": "Simple Module of Sensors",
+                "port": "COM6",
+                "baudrate": 9600,
+                "timestamp": "2019-03-11T18:04:15.556",
+                "location": "Hall BAT-02-001",
+                "sensors_type": {
+                    "type_name": "luminosity",
+                    "commercial_name": "Photosensor",
+                    "description": "Simple luminosity sensor",
+                    "unit": "lux (lumen)",
+                    "addr": "right",
+                    "value": 434
+                }
+            }
+        },
+        {
+            "Arduino_HC-05": {
+                "name": "Module H-C-2010-06-01",
+                "description": "Simple Module of Sensors",
+                "port": "COM6",
+                "baudrate": 9600,
+                "timestamp": "2019-03-11T18:04:21.565",
+                "location": "Hall BAT-02-001",
+                "sensors_type": {
+                    "type_name": "temperature",
+                    "commercial_name": "Temperature sensor - TMP36",
+                    "description": "Simple temperature sensor",
+                    "unit": "celsius",
+                    "value": 21.78
+                }
+            }
+        },
+        {
+            "Arduino_HC-05": {
+                "name": "Module H-C-2010-06-01",
+                "description": "Simple Module of Sensors",
+                "port": "COM6",
+                "baudrate": 9600,
+                "timestamp": "2019-03-11T18:04:21.565",
+                "location": "Hall BAT-02-001",
+                "sensors_type": {
+                    "type_name": "luminosity",
+                    "commercial_name": "Photosensor",
+                    "description": "Simple luminosity sensor",
+                    "unit": "lux (lumen)",
+                    "addr": "left",
+                    "value": 562
+                }
+            }
+        },
+        {
+            "Arduino_HC-05": {
+                "name": "Module H-C-2010-06-01",
+                "description": "Simple Module of Sensors",
+                "port": "COM6",
+                "baudrate": 9600,
+                "timestamp": "2019-03-11T18:04:21.565",
+                "location": "Hall BAT-02-001",
+                "sensors_type": {
+                    "type_name": "luminosity",
+                    "commercial_name": "Photosensor",
+                    "description": "Simple luminosity sensor",
+                    "unit": "lux (lumen)",
+                    "addr": "right",
+                    "value": 432
+                }
+            }
+        },
+        {
+            "Arduino_HC-05": {
+                "name": "Module H-C-2010-06-01",
+                "description": "Simple Module of Sensors",
+                "port": "COM6",
+                "baudrate": 9600,
+                "timestamp": "2019-03-11T18:04:27.585",
+                "location": "Hall BAT-02-001",
+                "sensors_type": {
+                    "type_name": "temperature",
+                    "commercial_name": "Temperature sensor - TMP36",
+                    "description": "Simple temperature sensor",
+                    "unit": "celsius",
+                    "value": 21.29
+                }
+            }
+        },
+        {
+            "Arduino_HC-05": {
+                "name": "Module H-C-2010-06-01",
+                "description": "Simple Module of Sensors",
+                "port": "COM6",
+                "baudrate": 9600,
+                "timestamp": "2019-03-11T18:04:27.585",
+                "location": "Hall BAT-02-001",
+                "sensors_type": {
+                    "type_name": "luminosity",
+                    "commercial_name": "Photosensor",
+                    "description": "Simple luminosity sensor",
+                    "unit": "lux (lumen)",
+                    "addr": "left",
+                    "value": 561
+                }
+            }
+        },
+        {
+            "Arduino_HC-05": {
+                "name": "Module H-C-2010-06-01",
+                "description": "Simple Module of Sensors",
+                "port": "COM6",
+                "baudrate": 9600,
+                "timestamp": "2019-03-11T18:04:27.585",
+                "location": "Hall BAT-02-001",
+                "sensors_type": {
+                    "type_name": "luminosity",
+                    "commercial_name": "Photosensor",
+                    "description": "Simple luminosity sensor",
+                    "unit": "lux (lumen)",
+                    "addr": "right",
+                    "value": 432
+                }
+            }
+        },
+        {
+            "Arduino_HC-05": {
+                "name": "Module H-C-2010-06-01",
+                "description": "Simple Module of Sensors",
+                "port": "COM6",
+                "baudrate": 9600,
+                "timestamp": "2019-03-11T18:04:33.607",
+                "location": "Hall BAT-02-001",
+                "sensors_type": {
+                    "type_name": "temperature",
+                    "commercial_name": "Temperature sensor - TMP36",
+                    "description": "Simple temperature sensor",
+                    "unit": "celsius",
+                    "value": 21.78
+                }
+            }
+        },
+        {
+            "Arduino_HC-05": {
+                "name": "Module H-C-2010-06-01",
+                "description": "Simple Module of Sensors",
+                "port": "COM6",
+                "baudrate": 9600,
+                "timestamp": "2019-03-11T18:04:33.607",
+                "location": "Hall BAT-02-001",
+                "sensors_type": {
+                    "type_name": "luminosity",
+                    "commercial_name": "Photosensor",
+                    "description": "Simple luminosity sensor",
+                    "unit": "lux (lumen)",
+                    "addr": "left",
+                    "value": 561
+                }
+            }
+        },
+        {
+            "Arduino_HC-05": {
+                "name": "Module H-C-2010-06-01",
+                "description": "Simple Module of Sensors",
+                "port": "COM6",
+                "baudrate": 9600,
+                "timestamp": "2019-03-11T18:04:33.607",
+                "location": "Hall BAT-02-001",
+                "sensors_type": {
+                    "type_name": "luminosity",
+                    "commercial_name": "Photosensor",
+                    "description": "Simple luminosity sensor",
+                    "unit": "lux (lumen)",
+                    "addr": "right",
+                    "value": 430
+                }
+            }
+        },
+        {
+            "Arduino_HC-05": {
+                "name": "Module H-C-2010-06-01",
+                "description": "Simple Module of Sensors",
+                "port": "COM6",
+                "baudrate": 9600,
+                "timestamp": "2019-03-11T18:04:39.618",
+                "location": "Hall BAT-02-001",
+                "sensors_type": {
+                    "type_name": "temperature",
+                    "commercial_name": "Temperature sensor - TMP36",
+                    "description": "Simple temperature sensor",
+                    "unit": "celsius",
+                    "value": 20.8
+                }
+            }
+        },
+        {
+            "Arduino_HC-05": {
+                "name": "Module H-C-2010-06-01",
+                "description": "Simple Module of Sensors",
+                "port": "COM6",
+                "baudrate": 9600,
+                "timestamp": "2019-03-11T18:04:39.618",
+                "location": "Hall BAT-02-001",
+                "sensors_type": {
+                    "type_name": "luminosity",
+                    "commercial_name": "Photosensor",
+                    "description": "Simple luminosity sensor",
+                    "unit": "lux (lumen)",
+                    "addr": "left",
+                    "value": 561
+                }
+            }
+        },
+        {
+            "Arduino_HC-05": {
+                "name": "Module H-C-2010-06-01",
+                "description": "Simple Module of Sensors",
+                "port": "COM6",
+                "baudrate": 9600,
+                "timestamp": "2019-03-11T18:04:39.618",
+                "location": "Hall BAT-02-001",
+                "sensors_type": {
+                    "type_name": "luminosity",
+                    "commercial_name": "Photosensor",
+                    "description": "Simple luminosity sensor",
+                    "unit": "lux (lumen)",
+                    "addr": "right",
+                    "value": 431
+                }
+            }
+        },
+        {
+            "Arduino_HC-05": {
+                "name": "Module H-C-2010-06-01",
+                "description": "Simple Module of Sensors",
+                "port": "COM6",
+                "baudrate": 9600,
+                "timestamp": "2019-03-11T18:04:45.638",
+                "location": "Hall BAT-02-001",
+                "sensors_type": {
+                    "type_name": "temperature",
+                    "commercial_name": "Temperature sensor - TMP36",
+                    "description": "Simple temperature sensor",
+                    "unit": "celsius",
+                    "value": 21.29
+                }
+            }
+        },
+        {
+            "Arduino_HC-05": {
+                "name": "Module H-C-2010-06-01",
+                "description": "Simple Module of Sensors",
+                "port": "COM6",
+                "baudrate": 9600,
+                "timestamp": "2019-03-11T18:04:45.638",
+                "location": "Hall BAT-02-001",
+                "sensors_type": {
+                    "type_name": "luminosity",
+                    "commercial_name": "Photosensor",
+                    "description": "Simple luminosity sensor",
+                    "unit": "lux (lumen)",
+                    "addr": "left",
+                    "value": 559
+                }
+            }
+        },
+        {
+            "Arduino_HC-05": {
+                "name": "Module H-C-2010-06-01",
+                "description": "Simple Module of Sensors",
+                "port": "COM6",
+                "baudrate": 9600,
+                "timestamp": "2019-03-11T18:04:45.638",
+                "location": "Hall BAT-02-001",
+                "sensors_type": {
+                    "type_name": "luminosity",
+                    "commercial_name": "Photosensor",
+                    "description": "Simple luminosity sensor",
+                    "unit": "lux (lumen)",
+                    "addr": "right",
+                    "value": 428
+                }
+            }
+        },
+        {
+            "Arduino_HC-05": {
+                "name": "Module H-C-2010-06-01",
+                "description": "Simple Module of Sensors",
+                "port": "COM6",
+                "baudrate": 9600,
+                "timestamp": "2019-03-11T18:04:57.963",
+                "location": "Hall BAT-02-001",
+                "sensors_type": {
+                    "type_name": "temperature",
+                    "commercial_name": "Temperature sensor - TMP36",
+                    "description": "Simple temperature sensor",
+                    "unit": "celsius",
+                    "value": 20.31
+                }
+            }
+        },
+        {
+            "Arduino_HC-05": {
+                "name": "Module H-C-2010-06-01",
+                "description": "Simple Module of Sensors",
+                "port": "COM6",
+                "baudrate": 9600,
+                "timestamp": "2019-03-11T18:04:57.963",
+                "location": "Hall BAT-02-001",
+                "sensors_type": {
+                    "type_name": "luminosity",
+                    "commercial_name": "Photosensor",
+                    "description": "Simple luminosity sensor",
+                    "unit": "lux (lumen)",
+                    "addr": "left",
+                    "value": 558
+                }
+            }
+        },
+        {
+            "Arduino_HC-05": {
+                "name": "Module H-C-2010-06-01",
+                "description": "Simple Module of Sensors",
+                "port": "COM6",
+                "baudrate": 9600,
+                "timestamp": "2019-03-11T18:04:57.963",
+                "location": "Hall BAT-02-001",
+                "sensors_type": {
+                    "type_name": "luminosity",
+                    "commercial_name": "Photosensor",
+                    "description": "Simple luminosity sensor",
+                    "unit": "lux (lumen)",
+                    "addr": "right",
+                    "value": 428
+                }
+            }
+        },
+        {
+            "Arduino_HC-05": {
+                "name": "Module H-C-2010-06-01",
+                "description": "Simple Module of Sensors",
+                "port": "COM6",
+                "baudrate": 9600,
+                "timestamp": "2019-03-11T18:05:12.996",
+                "location": "Hall BAT-02-001",
+                "sensors_type": {
+                    "type_name": "temperature",
+                    "commercial_name": "Temperature sensor - TMP36",
+                    "description": "Simple temperature sensor",
+                    "unit": "celsius",
+                    "value": 21.29
+                }
+            }
+        },
+        {
+            "Arduino_HC-05": {
+                "name": "Module H-C-2010-06-01",
+                "description": "Simple Module of Sensors",
+                "port": "COM6",
+                "baudrate": 9600,
+                "timestamp": "2019-03-11T18:05:12.996",
+                "location": "Hall BAT-02-001",
+                "sensors_type": {
+                    "type_name": "luminosity",
+                    "commercial_name": "Photosensor",
+                    "description": "Simple luminosity sensor",
+                    "unit": "lux (lumen)",
+                    "addr": "left",
+                    "value": 558
+                }
+            }
+        },
+        {
+            "Arduino_HC-05": {
+                "name": "Module H-C-2010-06-01",
+                "description": "Simple Module of Sensors",
+                "port": "COM6",
+                "baudrate": 9600,
+                "timestamp": "2019-03-11T18:05:12.996",
+                "location": "Hall BAT-02-001",
+                "sensors_type": {
+                    "type_name": "luminosity",
+                    "commercial_name": "Photosensor",
+                    "description": "Simple luminosity sensor",
+                    "unit": "lux (lumen)",
+                    "addr": "right",
+                    "value": 428
+                }
+            }
+        },
+        {
+            "Arduino_HC-05": {
+                "name": "Module H-C-2010-06-01",
+                "description": "Simple Module of Sensors",
+                "port": "COM6",
+                "baudrate": 9600,
+                "timestamp": "2019-03-11T18:05:28.018",
+                "location": "Hall BAT-02-001",
+                "sensors_type": {
+                    "type_name": "temperature",
+                    "commercial_name": "Temperature sensor - TMP36",
+                    "description": "Simple temperature sensor",
+                    "unit": "celsius",
+                    "value": 20.31
+                }
+            }
+        },
+        {
+            "Arduino_HC-05": {
+                "name": "Module H-C-2010-06-01",
+                "description": "Simple Module of Sensors",
+                "port": "COM6",
+                "baudrate": 9600,
+                "timestamp": "2019-03-11T18:05:28.018",
+                "location": "Hall BAT-02-001",
+                "sensors_type": {
+                    "type_name": "luminosity",
+                    "commercial_name": "Photosensor",
+                    "description": "Simple luminosity sensor",
+                    "unit": "lux (lumen)",
+                    "addr": "left",
+                    "value": 558
+                }
+            }
+        },
+        {
+            "Arduino_HC-05": {
+                "name": "Module H-C-2010-06-01",
+                "description": "Simple Module of Sensors",
+                "port": "COM6",
+                "baudrate": 9600,
+                "timestamp": "2019-03-11T18:05:28.018",
+                "location": "Hall BAT-02-001",
+                "sensors_type": {
+                    "type_name": "luminosity",
+                    "commercial_name": "Photosensor",
+                    "description": "Simple luminosity sensor",
+                    "unit": "lux (lumen)",
+                    "addr": "right",
+                    "value": 429
+                }
+            }
+        },
+        {
+            "Arduino_HC-05": {
+                "name": "Module H-C-2010-06-01",
+                "description": "Simple Module of Sensors",
+                "port": "COM6",
+                "baudrate": 9600,
+                "timestamp": "2019-03-11T18:05:43.035",
+                "location": "Hall BAT-02-001",
+                "sensors_type": {
+                    "type_name": "temperature",
+                    "commercial_name": "Temperature sensor - TMP36",
+                    "description": "Simple temperature sensor",
+                    "unit": "celsius",
+                    "value": 21.29
+                }
+            }
+        },
+        {
+            "Arduino_HC-05": {
+                "name": "Module H-C-2010-06-01",
+                "description": "Simple Module of Sensors",
+                "port": "COM6",
+                "baudrate": 9600,
+                "timestamp": "2019-03-11T18:05:43.035",
+                "location": "Hall BAT-02-001",
+                "sensors_type": {
+                    "type_name": "luminosity",
+                    "commercial_name": "Photosensor",
+                    "description": "Simple luminosity sensor",
+                    "unit": "lux (lumen)",
+                    "addr": "left",
+                    "value": 554
+                }
+            }
+        },
+        {
+            "Arduino_HC-05": {
+                "name": "Module H-C-2010-06-01",
+                "description": "Simple Module of Sensors",
+                "port": "COM6",
+                "baudrate": 9600,
+                "timestamp": "2019-03-11T18:05:43.035",
+                "location": "Hall BAT-02-001",
+                "sensors_type": {
+                    "type_name": "luminosity",
+                    "commercial_name": "Photosensor",
+                    "description": "Simple luminosity sensor",
+                    "unit": "lux (lumen)",
+                    "addr": "right",
+                    "value": 424
+                }
+            }
+        }
+    ]
+}
